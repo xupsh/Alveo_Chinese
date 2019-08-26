@@ -1,5 +1,5 @@
-# Alveo_Chinese
-##注： 本文档为高校用户获得Alveo板卡后快速安装使用准备，内容为相关Xilinx官方资源列表，请按照资源列表准备，如有技术问题可以在Xilinx官方中文或英文论坛咨询
+# 文档说明
+# # 注： 本文档为高校用户获得Alveo板卡后快速安装使用准备，内容为相关Xilinx官方资源列表，请按照资源列表准备，如有技术问题可以在Xilinx官方中文或英文论坛咨询
 https://forums.xilinx.com/t5/Alveo-Data-Center-Accelerator/bd-p/alveo
 https://forums.xilinx.com/t5/SDx/bd-p/CN_HLS
 如提问在官方论坛工作日2天内无答复，或5天内没有解决，可向xup_china@xilinx.com 发送邮件，并附上提问的帖子链接，寻求进一步处理。
