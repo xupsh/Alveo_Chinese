@@ -1,19 +1,23 @@
 # 文档说明
-## 注： 本文档为高校用户获得Alveo板卡后快速安装使用准备，内容为相关Xilinx官方资源列表，请按照资源列表准备，如有技术问题可以在Xilinx官方中文或英文论坛咨询
+*注： 本文档为高校用户获得Alveo板卡后快速安装使用准备，内容为相关Xilinx官方资源列表，请按照资源列表准备，如有技术问题可以在Xilinx官方中文或英文论坛咨询
 https://forums.xilinx.com/t5/Alveo-Data-Center-Accelerator/bd-p/alveo
 https://forums.xilinx.com/t5/SDx/bd-p/CN_HLS
 如提问在官方论坛工作日2天内无答复，或5天内没有解决，可向xup_china@xilinx.com 发送邮件，并附上提问的帖子链接，寻求进一步处理。
 此文档将持续更新
-板卡安装
-https://www.xilinx.com/products/boards-and-kits/alveo/u200.html#gettingStarted
+*
 
+# 板卡安装
+
+*https://www.xilinx.com/products/boards-and-kits/alveo/u200.html#gettingStarted
 UG1301 板卡安装入门
 https://www.xilinx.com/support/documentation/boards_and_kits/accelerator-cards/2019_1/ug1301-getting-started-guide-alveo-accelerator-cards.pdf
 UG1238 开发工具使用手册
 https://www.xilinx.com/support/documentation/sw_manuals/xilinx2019_1/ug1238-sdx-rnil.pdf
 UG1352 开始使用Alveo的入门手册
-https://www.xilinx.com/support/documentation/sw_manuals/ug1352-get-moving-with-alveo.pdf
-软件License 获取
+https://www.xilinx.com/support/documentation/sw_manuals/ug1352-get-moving-with-alveo.pdf*
+
+
+# 软件License 获取
 针对学术用户， SDAccel软件正版license 可以在这里免费申请。
 https://www.xilinx.com/support/university/donation-program.html
 注：必须是老师邮箱申请，学生申请无效
