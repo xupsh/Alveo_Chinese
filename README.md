@@ -33,6 +33,9 @@ UG1352 开始使用Alveo的入门手册
 
 [https://www.xilinx.com/support/documentation/sw_manuals/ug1352-get-moving-with-alveo.pdf](https://www.xilinx.com/support/documentation/sw_manuals/ug1352-get-moving-with-alveo.pdf)
 
+Xilinx Runtime
+github.com/Xilinx/XRT
+
 ----------
 
 **软件License 获取**
